@@ -31,6 +31,7 @@ Cursos concluídos:
 
 Cursos em andamento:
 
-- [x] 
+- [x] Ciência da computação
+- [x] Bootcamp Orange Tech
 
 
