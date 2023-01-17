@@ -25,4 +25,12 @@ Task para continuar o aprimoramento após cada curso:
 - Tirar dúvidas
 - Done!🎉
 
+Cursos concluídos:
+
+- [x] Bootcamp Generation
+
+Cursos em andamento:
+
+- [x] 
+
 
