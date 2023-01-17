@@ -6,7 +6,10 @@
 > "É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada." -Mark Zuckerberg 
 
 *Plano de estudos baseado no Guia de Desenvolvimento da Mentoria Dio.me [Acesse aqui](https://github.com/julianazanelatto/Mentoria_Plano_Estudos_Gitub)
-  
+
+# Meta:
+## 🧗 Faculdade + um concluir no mínimo um curso por mês  com mais de 36horas
+
 Lista de cursos:
 
 1. [Bootcamp intensivo Java](https://brazil.generation.org/#picker) (Gratuito)
