@@ -1,6 +1,6 @@
 # Plano de estudos Individual (cursos)
 
-<img src=https://user-images.githubusercontent.com/105953108/213002528-3e04b21b-0f65-42be-b2f0-601b0e2f5651.png width="150" height="150" align="rigth" alt="Computador"/>
+<img src=https://user-images.githubusercontent.com/105953108/213002528-3e04b21b-0f65-42be-b2f0-601b0e2f5651.png width="150" height="150" alt="Computador"/>
 
 
 > "É melhor você tentar algo, vê-lo não funcionar e aprender com isso, do que não fazer nada." -Mark Zuckerberg 
